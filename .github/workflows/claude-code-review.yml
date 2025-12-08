@@ -10,5 +10,5 @@ on:
 
 jobs:
   claude-review:
-    uses: auth0/auth0-ai-pr-analyzer-gh-action/.github/workflows/claude-code-review.yml
+    uses: auth0/auth0-ai-pr-analyzer-gh-action/.github/workflows/claude-code-review.yml@main
 
